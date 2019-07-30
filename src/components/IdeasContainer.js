@@ -58,7 +58,7 @@ class IdeasContainer extends Component {
   render() {
     return (
       <div>
-        <div>
+        <div className="button-center">
           <button className="newIdeaButton" onClick={this.addNewIdea} >
             New Idea
           </button>

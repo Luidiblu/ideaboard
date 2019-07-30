@@ -1,5 +1,8 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #3A3335;
   font-family: sans-serif;
+  justify-content: center;
+  display: flex;
 }
